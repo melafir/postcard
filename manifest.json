@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://melafir.github.io/postcard/",
+  "start_url": "/postcard/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
